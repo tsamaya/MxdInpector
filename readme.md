@@ -1,7 +1,7 @@
 # mxdInspector
-### extract details from a ArcGSI for Dekstop mxd file
+### extract detailed informations from a ArcGIS for Dekstop Mxd File
 
-This project aims to inspect mxd file and creates a spreadsheet to detail the content of the mxd file
+This project aims to inspect mxd file in order to create a spreadsheet with the content of the mxd file
 
 ## History
 
